@@ -1,0 +1,25 @@
+# 📊 Dashboard Portfolio
+
+Interactive retail sales analytics dashboard showcasing data visualization expertise.
+
+## 🚀 Live Demo
+- **Portfolio**: https://harshalisawant129-dotcomFile.github.io/dashboard-portfolio/
+- **Dashboard**: https://harshalisawant129-dotcomFile.github.io/dashboard-portfolio/salesdashboard.html
+
+## ✨ Features
+- 5 Interactive Tabs
+- 4 Chart Types (Bar, Pie, Line, Doughnut)
+- Responsive Design
+- Real-time Data Visualization
+- Professional Styling
+
+## 🛠️ Technologies
+- HTML5
+- CSS3
+- JavaScript ES6+
+- Chart.js
+
+## 📊 Dashboard Metrics
+- Total Revenue: ₹5,85,400
+- Top Product: Laptops (₹2,70,000)
+- Best Region: Maharashtra (36%)
